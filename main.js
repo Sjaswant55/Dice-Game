@@ -20,8 +20,3 @@ else if(n11<n22)
 document.getElementById("result").innerHTML="Player "+2+" win";
 else 
 document.getElementById("result").innerHTML="Tied";
-
-const displayDate = () =>{
-   
-}
-document.querySelector("result_main").addEventListener("onClick", displayDate);
