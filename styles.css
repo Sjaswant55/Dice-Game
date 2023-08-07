@@ -41,10 +41,12 @@ footer {
 }
 
 .result_main{
-  color: white;
   font-size: 5rem;
   font-weight: 900;
-
+  border-radius: 12px;
+  color: rgb(50, 135, 187);
+  font-family: A;
+  padding: 5px;
 }
 
 #result{
